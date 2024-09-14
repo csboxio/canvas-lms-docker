@@ -33,8 +33,6 @@ services:
         condition: service_healthy
       redis:
         condition: service_healthy
-      smtp:
-        condition: service_started
 
   db:
     image: postgres:16-alpine
@@ -65,12 +63,6 @@ services:
       - type: volume
         source: redis-volume
         target: /data
-
-  smtp:
-    image: axllent/mailpit
-    container_name: mailpit
-    ports:
-      - 8025:8025
 
 volumes:
   app-volume:
