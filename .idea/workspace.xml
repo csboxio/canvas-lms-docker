@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1b1422a-9259-482c-9241-d72769bb820c" name="Changes" comment="" />
+    <list default="true" id="e1b1422a-9259-482c-9241-d72769bb820c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gcloud-start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/gcloud-start.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/setup.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +49,7 @@
       <updated>1726254121618</updated>
       <workItem from="1726254122813" duration="7994000" />
       <workItem from="1726337400517" duration="6521000" />
+      <workItem from="1726511555159" duration="2031000" />
     </task>
     <servers />
   </component>
