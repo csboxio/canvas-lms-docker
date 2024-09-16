@@ -33,3 +33,6 @@ sudo ./setup.sh
 chmod +x run.sh
 sudo ./run.sh
 
+chmod +x tunnel.sh
+sudo ./tunnel.sh
+
