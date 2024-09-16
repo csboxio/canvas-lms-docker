@@ -22,24 +22,8 @@ sudo apt-get install -y cloudflared google-cloud-sdk
 # Retrieve the tunnel token from Secret Manager
 TUNNEL_TOKEN=$(gcloud secrets versions access latest --secret="${SECRET_NAME}")
 
-sudo mkdir -p /etc/cloudflared
-
-# Save the tunnel token to the credentials file
-echo "${TUNNEL_TOKEN}" | sudo tee /etc/cloudflared/tunnel.json > /dev/null
-
-# Create the configuration file
-sudo tee /etc/cloudflared/config.yml > /dev/null <<EOL
-tunnel: ${TUNNEL_NAME}
-credentials-file: /etc/cloudflared/tunnel.json
-
-ingress:
-  - hostname: ${HOSTNAME}
-    service: http://localhost:3000
-  - service: http_status:404
-EOL
-
-# Install and start the cloudflared service
-sudo cloudflared service install
+# Install and start the cloudflared service using the token
+sudo cloudflared service install ${TUNNEL_TOKEN}
 sudo systemctl start cloudflared
 sudo systemctl enable cloudflared
 
