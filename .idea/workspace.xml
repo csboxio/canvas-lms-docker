@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e1b1422a-9259-482c-9241-d72769bb820c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shutdown.sh" beforeDir="false" afterPath="$PROJECT_DIR$/shutdown.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ethan/WebstormProjects/canvas test&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -47,7 +49,16 @@
       <workItem from="1726254122813" duration="7994000" />
       <workItem from="1726337400517" duration="6521000" />
       <workItem from="1726511555159" duration="9495000" />
-      <workItem from="1726591551868" duration="418000" />
+      <workItem from="1726591551868" duration="2366000" />
+      <workItem from="1726691084176" duration="718000" />
+      <workItem from="1726714608010" duration="4000" />
+      <workItem from="1726778576703" duration="633000" />
+      <workItem from="1726854587498" duration="227000" />
+      <workItem from="1726865704060" duration="1773000" />
+      <workItem from="1727119851666" duration="1188000" />
+      <workItem from="1727217085821" duration="2370000" />
+      <workItem from="1727287772679" duration="2903000" />
+      <workItem from="1727374290747" duration="1889000" />
     </task>
     <servers />
   </component>

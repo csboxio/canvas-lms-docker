@@ -1,3 +1,4 @@
 services:
   app:
-    image: ahamana/canvas-lms:ruby3.1-debian
+    image: lt1gt0/canvas-lms:latest
+
