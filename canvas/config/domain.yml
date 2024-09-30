@@ -1,11 +1,11 @@
 default: &default
-  domain: <%= ENV.fetch('CANVAS_LMS_DOMAIN') %>
+  domain: "https://canvas.csbox.io"
 
 production:
-  <<: <%= ENV.fetch('CANVAS_LMS_DOMAIN') %>
+  <<: "https://canvas.csbox.io"
 
 development:
-  <<: <%= ENV.fetch('CANVAS_LMS_DOMAIN') %>
+  <<: "https://canvas.csbox.io"
 
 test:
-  <<: <%= ENV.fetch('CANVAS_LMS_DOMAIN') %>
+  <<: "https://canvas.csbox.io"
