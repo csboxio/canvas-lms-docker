@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e1b1422a-9259-482c-9241-d72769bb820c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvas/config/domain.yml" beforeDir="false" afterPath="$PROJECT_DIR$/canvas/config/domain.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvas/config/security.yml" beforeDir="false" afterPath="$PROJECT_DIR$/canvas/config/security.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <workItem from="1727287772679" duration="2903000" />
       <workItem from="1727374290747" duration="1889000" />
       <workItem from="1727547340039" duration="658000" />
-      <workItem from="1727720774589" duration="632000" />
+      <workItem from="1727720774589" duration="2573000" />
     </task>
     <servers />
   </component>
