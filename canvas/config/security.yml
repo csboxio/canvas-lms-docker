@@ -1,7 +1,7 @@
 default: &default
   encryption_key: facdd3a131ddd8988b14f6e4e01039c93cfa0160
-  lti_iss: https://canvas.csbox.io
-  lti_grant_host: <%= ENV.fetch('CANVAS_LMS_DOMAIN') %>
+  lti_iss: 'https://canvas.csbox.io'
+  lti_grant_host: 'https://canvas.csbox.io'
 
 production:
   <<: *default
