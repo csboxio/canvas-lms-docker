@@ -7,7 +7,6 @@
     <list default="true" id="e1b1422a-9259-482c-9241-d72769bb820c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile-debian" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile-debian" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvas/config/environments/development-local.rb" beforeDir="false" afterPath="$PROJECT_DIR$/canvas/config/environments/development-local.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,9 @@
       <workItem from="1727896055290" duration="1206000" />
       <workItem from="1727905476791" duration="856000" />
       <workItem from="1727907218337" duration="601000" />
-      <workItem from="1727987877133" duration="1963000" />
+      <workItem from="1727987877133" duration="3752000" />
+      <workItem from="1728065728120" duration="3213000" />
+      <workItem from="1728151985369" duration="387000" />
     </task>
     <servers />
   </component>
